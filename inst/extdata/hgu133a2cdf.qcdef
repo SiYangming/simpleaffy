@@ -1,0 +1,11 @@
+array hgu133a2cdf
+alpha1 0.05 
+alpha2 0.065 
+spk bioB AFFX-r2-Ec-bioB-3_at 
+spk bioC AFFX-r2-Ec-bioC-3_at 
+spk bioD AFFX-r2-Ec-bioD-3_at 
+spk creX AFFX-r2-P1-cre-3_at 
+ratio actin3/actin5 AFFX-HSAC07/X00351_3_at AFFX-HSAC07/X00351_5_at 
+ratio actin3/actinM AFFX-HSAC07/X00351_3_at AFFX-HSAC07/X00351_M_at 
+ratio gapdh3/gapdh5 AFFX-HUMGAPDH/M33197_3_at AFFX-HUMGAPDH/M33197_5_at 
+ratio gapdh3/gapdhM AFFX-HUMGAPDH/M33197_3_at AFFX-HUMGAPDH/M33197_M_at 

@@ -1,0 +1,11 @@
+array soybeancdf
+alpha1 0.05 
+alpha2 0.065 
+spk bioB AFFX-r2-Ec-bioB-3_at 
+spk bioC AFFX-r2-Ec-bioC-3_at 
+spk bioD AFFX-r2-Ec-bioD-3_at 
+spk creX AFFX-r2-P1-cre-3_at 
+ratio actin3/actin5 AFFX-r2-Gma-actin-3_at AFFX-r2-Gma-actin-5_at 
+ratio actin3/actinM AFFX-r2-Gma-actin-3_at AFFX-r2-Gma-actin-M_at 
+ratio gapdh3/gapdh5 AFFX-r2-Gma-gapdh-3_s_at NA 
+ratio gapdh3/gapdhM AFFX-r2-Gma-gapdh-3_s_at AFFX-r2-Gma-gapdh-M_at 

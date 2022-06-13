@@ -1,0 +1,11 @@
+array drosgenome1cdf
+alpha1 0.04 
+alpha2 0.06 
+spk bioB AFFX-BioB-3_at 
+spk bioC AFFX-BioC-3_at 
+spk bioD AFFX-BioDn-3_at 
+spk creX AFFX-CreX-3_at 
+ratio actin3/actin5 AFFX-Dros-ACTIN_3_at AFFX-Dros-ACTIN_5_at 
+ratio actin3/actinM AFFX-Dros-ACTIN_3_at AFFX-Dros-ACTIN_M_r_at 
+ratio gapdh3/gapdh5 AFFX-Dros-GAPDH_3_at AFFX-Dros-GAPDH_5_at 
+ratio gapdh3/gapdhM AFFX-Dros-GAPDH_3_at AFFX-Dros-GAPDH_M_at 

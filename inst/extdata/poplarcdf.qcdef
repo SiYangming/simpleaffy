@@ -1,0 +1,11 @@
+array poplarcdf
+alpha1 0.05 
+alpha2 0.065 
+spk bioB AFFX-r2-Ec-bioB-3_at 
+spk bioC AFFX-r2-Ec-bioC-3_at 
+spk bioD AFFX-r2-Ec-bioD-3_at 
+spk creX AFFX-r2-P1-cre-3_at 
+ratio actin3/actin5 AFFX-Ptp-actin-3_s_at AFFX-Ptp-actin-5_s_at 
+ratio actin3/actinM AFFX-Ptp-actin-3_s_at AFFX-Ptp-actin-M_s_at 
+ratio gapdh3/gapdh5 AFFX-Ptp-gapdh-3_at AFFX-Ptp-gapdh-5_at 
+ratio gapdh3/gapdhM AFFX-Ptp-gapdh-3_at AFFX-Ptp-gapdh-M_at 

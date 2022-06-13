@@ -1,0 +1,11 @@
+array rhesuscdf
+alpha1 0.05 
+alpha2 0.065 
+spk bioB AFFX-r2-Ec-bioB-3_at 
+spk bioC AFFX-r2-Ec-bioC-3_at 
+spk bioD AFFX-r2-Ec-bioD-3_at 
+spk creX AFFX-r2-P1-cre-3_at 
+ratio actin3/actin5 AFFX-Mmu-actin-3_s_at AFFX-Mmu-actin-5_at 
+ratio actin3/actinM AFFX-Mmu-actin-3_s_at AFFX-Mmu-actin-M_at 
+ratio gapdh3/gapdh5 AFFX-Mmu-gapdh-3_at AFFX-Mmu-gapdh-5_at 
+ratio gapdh3/gapdhM AFFX-Mmu-gapdh-3_at AFFX-Mmu-gapdh-M_s_at 

@@ -1,0 +1,13 @@
+array ygs98cdf
+alpha1 0.04 
+alpha2 0.06 
+spk bioB AFFX-BioB-3_at 
+spk bioC AFFX-BioC-3_at 
+spk bioD AFFX-BioDn-3_at 
+spk creX AFFX-CreX-3_at 
+ratio actin3/actin5 AFFX-YFL039C3_at AFFX-YFL039C5_at 
+ratio actin3/actinM AFFX-YFL039C3_at AFFX-YFL039CM_at 
+ratio rnapolII3/rnapolII5 AFFX-YER022w3_at AFFX-YER022w5_at 
+ratio rnapolII3/rnapolIIM AFFX-YER022w3_at AFFX-YER022wM_at 
+ratio tatabp3/tatabp5 AFFX-YER148w3_at AFFX-YER148w5_at 
+ratio tatabp3/tatabpM AFFX-YER148w3_at AFFX-YER148wM_at 
